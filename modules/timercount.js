@@ -1,4 +1,4 @@
-import { DateTime } from "../luxon.js";
+import { DateTime } from '../luxon.js';
 
 function displayDate() {
   const date = document.getElementById('date');
