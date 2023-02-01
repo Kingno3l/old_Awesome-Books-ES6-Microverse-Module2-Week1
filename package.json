@@ -16,7 +16,10 @@
     "url": "https://github.com/Kingno3l/Awesome-Books-ES6-Microverse-Module2-Week1/issues"
   },
   "homepage": "https://github.com/Kingno3l/Awesome-Books-ES6-Microverse-Module2-Week1#readme",
+<<<<<<< HEAD
   "description": "<a name=\"readme-top\"></a>",
+=======
+>>>>>>> main
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
@@ -30,5 +33,6 @@
   },
   "dependencies": {
     "luxon": "^3.2.1"
-  }
+  },
+  "description": ""
 }
